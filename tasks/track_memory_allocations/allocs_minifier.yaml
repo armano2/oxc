@@ -16,7 +16,7 @@ App.tsx:
   sys deallocs: 61
   sys alloc bytes: 2128563 # 2.13 MB
   sys peak growth: 1612427 # 1.61 MB
-  arena allocs: 7489
+  arena allocs: 7488
   arena reallocs: 2709
   arena size: 2704912 # 2.70 MB
 
